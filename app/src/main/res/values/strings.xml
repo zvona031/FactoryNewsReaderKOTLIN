@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPFactoryNews</string>
+    <string name="popup_title">Greška</string>
+    <string name="popup_message">Ups, dogodila se pogreška.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
